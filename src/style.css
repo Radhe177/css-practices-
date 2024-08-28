@@ -1,0 +1,373 @@
+html {
+    width: 1440px;
+    height: 2330px;
+    background: #FFF8F0;
+    margin: 0;
+    padding: 0;
+}
+
+#hero-section {
+    width: 1440px;
+    height: 550px;
+    display: flex;
+}
+
+.hero-parts {
+    width: 50%;
+}
+
+#img-wrapper {
+    width: 540px;
+    height: 600px;
+}
+
+#img-wrapper .hero-img {
+    width: 50%;
+    height: 450px;
+    width: 500px;
+    padding: 0;
+    margin-right: 200px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+
+
+
+.phone {
+    margin-left: 20px;
+    font-size: 12px;
+
+}
+
+.email {
+    width: 114px;
+    height: 14px;
+    top: 33px;
+    left: 596px;
+
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.06px;
+
+    color: #000000;
+    margin-left: 2
+
+}
+
+
+#name {
+    width: 250px;
+    height: 25px;
+
+
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    color: #291854;
+    margin-left: 20px;
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+
+h1 {
+    margin-top: 20px;
+    width: 520px;
+    height: 150px;
+    top: 128px;
+    left: 190px;
+    font-family: "League Spartan", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    color: #190D37;
+    margin-left: 20px;
+}
+
+ #hero-section .hero-parts {
+    width: 540px;
+    height: 600px;
+}
+
+#sub {
+    width: 520px;
+    height: 128px;
+    top: 308px;
+    left: 190px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #331E6A;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+button {
+    width: 138px;
+    height: 44px;
+    top: 456px;
+    left: 190px;
+    border-radius: 4px 0px 0px 0px;
+    background: #2F2F2F;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+.what {
+    margin-left: 400px;
+    width: 80px;
+    height: 18px;
+    top: 696px;
+    left: 688px;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    color: #2858FF;
+    margin-bottom: 5px;
+    padding: 0;
+    margin-top: 20px;
+
+}
+
+h2 {
+    width: 700px;
+    height: 80px;
+    top: 722px;
+    left: 370px;
+    font-family: "League Spartan", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    color: black;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    padding: 0;
+    margin-top: 10px 10px 10px 10px;
+}
+
+.par {
+    width: 686px;
+    height: 81px;
+    top: 810px;
+    left: 370px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    color: #190D37;
+    margin-left: 100px;
+}
+
+
+.box-1 {
+    width: 340px;
+    height: 298px;
+    top: 939px;
+    left: 190px;
+    border-radius: 10px 0px 0px 0px;
+    border: 1px solid white;
+    margin-right: 10px;
+    margin-left: 10px;
+    background: white;
+
+
+}
+
+.box-2 {
+    width: 340px;
+    height: 298px;
+    top: 939px;
+    left: 190px;
+    border-radius: 10px 0px 0px 0px;
+    border: 1px solid white;
+    margin-right: 10px;
+    background: white;
+
+}
+
+.box-3 {
+    width: 340px;
+    height: 298px;
+    top: 939px;
+    left: 190px;
+    border-radius: 10px 0px 0px 0px;
+    border: 1px solid white;
+    background: white;
+
+}
+
+.box-model {
+    display: inline-flex;
+}
+
+h5 {
+    width: 300px;
+    height: 27px;
+    top: 959px;
+    left: 930px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+}
+
+.box-model p {
+    width: 300px;
+    height: 216px;
+    top: 994px;
+    left: 930px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #55206D;
+}
+
+.box-4 {
+    width: 200px;
+    height: 200px;
+    top: 1571px;
+    left: 190px;
+    border-radius: 10px 0px 0px 0px;
+    background: #19ACFF;
+    width: 80px;
+    height: 90px;
+    top: 1615px;
+    left: 237px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+
+.my-project {
+    display: flex;
+}
+
+.box-top {
+    width: 30%;
+}
+
+.box-bot {
+    width: 70%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+h6 {
+    width: 125px;
+    height: 27px;
+    top: 1573px;
+    left: 370px;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 27px;
+    color: #291854;
+    margin: 0px;
+    padding: 0px;
+}
+
+.my-project p {
+    width: 800px;
+    height: 50px;
+    top: 1608px;
+    left: 370px;
+    font-family: "Inter", sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #55206D;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.my-project a {
+    width: 97px;
+    height: 17px;
+    top: 1712px;
+    left: 369px;
+    font-size: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.box-5 {
+    width: 200px;
+    height: 200px;
+    top: 1571px;
+    left: 190px;
+    border-radius: 10px 0px 0px 0px;
+    background: yellow;
+    width: 80px;
+    height: 90px;
+    top: 1615px;
+    left: 237px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+
+.box-6 {
+    width: 200px;
+    height: 200px;
+    top: 1571px;
+    left: 190px;
+    border-radius: 10px 0px 0px 0px;
+    background: red;
+    width: 80px;
+    height: 90px;
+    top: 1615px;
+    left: 237px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+
+.down {
+    width: 1200px;
+    height: 30px;
+    top: 2258px;
+    background: #000000;
+    top: 2278px;
+    left: 602px;
+    font-family: "Poppins",sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 25px;
+    color: #FFFFFF;
+    text-align: center;
+}
